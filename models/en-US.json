@@ -1,0 +1,76 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "template twenty five",
+      "types": [
+
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "SubscribeIntent",
+          "samples": [
+            "opt in",
+            "opt me in",
+            "i want to subscribe",
+            "subscribe me",
+            "to subscribe me",
+            "subscribe",
+            "to opt me in",
+            "to add me to their email list",
+            "to put me on their email list"
+          ]
+        },
+        {
+          "name": "UnsubscribeIntent",
+          "samples": [
+            "opt out",
+            "opt me out",
+            "i want to un-subscribe",
+            "un-subscribe me",
+            "un-subscribe",
+            "to opt me out",
+            "to remove me",
+            "to remove me from their email list",
+            "to take me off their email list"
+          ]
+        },
+        {
+          "name": "RandomIntent",
+          "samples": [
+            "something random",
+            "what is this thing",
+            "anything but what i want the user to say",
+            "just dont do anything stupid",
+            "leave my mother out of this",
+            "i think therefor i am i thing",
+            "what is the day after sunday",
+            "why do all weekdays end with why",
+            "this is a very big deal",
+            "im just a man not a machine",
+            "im just a machine not a human",
+            "how many bots does it take to screw in a light bulb",
+            "none bots dont need light to see"
+          ]
+        }
+      ]
+    }
+  }
+}
